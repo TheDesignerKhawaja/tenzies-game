@@ -55,6 +55,10 @@ To run the project locally:
    npm run dev
    ```
 
+## 🎮 Play Online
+
+Check out the live version: [https://tenzies-game-haider.netlify.app](tenzies-game-haider.netlify.app)
+
 
 ## 🙋‍♂️ Author
 
