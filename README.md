@@ -57,7 +57,7 @@ To run the project locally:
 
 ## 🎮 Play Online
 
-Check out the live version: [https://tenzies-game-haider.netlify.app](tenzies-game-haider.netlify.app)
+Check out the live version: [tenzies-game-haider.netlify.app](https://tenzies-game-haider.netlify.app)
 
 
 ## 🙋‍♂️ Author
